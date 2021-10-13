@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vamp
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java and python
+- 📫 Reach me on discord @Vamp#7950
